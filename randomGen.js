@@ -1,6 +1,6 @@
 function generateRandomMessage()
 {
-    let randNum = Math.floor(Math.random()*8);
+    let randNum = Math.ceil(Math.random()*8);
     
     switch(randNum)
     {

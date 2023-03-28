@@ -4,9 +4,9 @@ function generateRandomMessage()
     
     switch(randNum)
     {
-        case 1: console.log('You will have a great day');
+        case 1: console.log('You will have an amazing day');
             break;
-        case 2: console.log('You will have a bad day');
+        case 2: console.log('You will have a terrible day');
             break;
         case 3: console.log('A big suprise will be coming soon');
             break;
